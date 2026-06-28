@@ -128,6 +128,7 @@ model.infer_multi(
 ### vLLM
 
 Please refer to the official vLLM recipe for deployment details:
+
 **Recipe:** [https://recipes.vllm.ai/baidu/Unlimited-OCR](https://recipes.vllm.ai/baidu/Unlimited-OCR)
 
 ##### Docker Images
